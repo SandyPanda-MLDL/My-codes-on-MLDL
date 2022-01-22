@@ -9,3 +9,5 @@ YouTube: https://www.youtube.com/watch?v=ZUKz4125WNI
 Tensorflow version 2 : Model save and Restore ( https://stackoverflow.com/questions/33759623/how-to-save-restore-a-model-after-training )
 
 Tensflow Version 2: File.Writer (https://www.tensorflow.org/api_docs/python/tf/compat/v1/summary/FileWriter)
+
+Tensorflow variable reuse : https://medium.com/@hideyuki/what-does-variable-reuse-mean-in-tensorflow-40e86535026b
